@@ -1,0 +1,279 @@
+<?xml version="1.0"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://www.w3.org/2001/12/soap-envelope" SOAP-ENV:encodingStyle="http://www.w3.org/2001/12/soap-encoding" >
+<SOAP-ENV:Body xmlns:lle="http://www.xyz.org/lifelogevents" >
+<lle:Event>
+    <lle:eventid>ID1</lle:eventid>
+    <lle:tweet>
+        <lle:text>This is some tweet in my day</lle:text>
+        <lle:location>
+            <lle:lat>-31.943896</lle:lat>
+            <lle:long>115.878764</lle:long>
+        </lle:location>
+        <lle:datetimestamp>24/09/2018 08:00:00</lle:datetimestamp>
+    </lle:tweet>
+</lle:Event>
+  
+<lle:Event>
+    <lle:eventid>ID2</lle:eventid>
+    <lle:tweet>
+    <lle:text>This is some status update in my day</lle:text>
+      <lle:location>
+          <lle:lat>-31.9444022</lle:lat>
+          <lle:long>115.84626</lle:long>
+      </lle:location>
+    <lle:datetimestamp>22/09/2018 14:00:00</lle:datetimestamp>
+    </lle:tweet>
+</lle:Event>
+
+  <lle:Event>
+    <lle:eventid>ID3</lle:eventid>
+    <lle:tweet>
+    <lle:text>This is some status update in my day</lle:text>
+      <lle:location>
+          <lle:lat>-31.957877</lle:lat>
+          <lle:long>115.843382</lle:long>
+      </lle:location>
+    <lle:datetimestamp>23/09/2018 14:00:00</lle:datetimestamp>
+    </lle:tweet>
+</lle:Event>
+  
+  <lle:Event>
+    <lle:eventid>ID4</lle:eventid>
+    <lle:tweet>
+    <lle:text>This is some status update in my day</lle:text>
+      <lle:location>
+          <lle:lat>-31.975112</lle:lat>
+          <lle:long>115.856752</lle:long>
+      </lle:location>
+    <lle:datetimestamp>24/09/2018 14:00:00</lle:datetimestamp>
+    </lle:tweet>
+</lle:Event>
+
+  <lle:Event>
+    <lle:eventid>ID5</lle:eventid>
+    <lle:tweet>
+      <lle:text>This is some status update in my day</lle:text>
+      <lle:location>
+        <lle:lat>-31.929319</lle:lat>
+        <lle:long>115.843792</lle:long>
+      </lle:location>
+      <lle:datetimestamp>24/09/2018 14:00:00</lle:datetimestamp>
+    </lle:tweet>
+  </lle:Event>
+
+  <lle:Event>
+    <lle:eventid>ID6</lle:eventid>
+    <lle:tweet>
+      <lle:text>This is some status update in my day</lle:text>
+      <lle:location>
+        <lle:lat>-31.929656</lle:lat>
+        <lle:long>115.837977</lle:long>
+      </lle:location>
+      <lle:datetimestamp>24/09/2018 14:00:00</lle:datetimestamp>
+    </lle:tweet>
+  </lle:Event>
+
+  <lle:Event>
+    <lle:eventid>ID7</lle:eventid>
+    <lle:tweet>
+      <lle:text>This is some status update in my day</lle:text>
+      <lle:location>
+        <lle:lat>-31.929390</lle:lat>
+        <lle:long>115.852174</lle:long>
+      </lle:location>
+      <lle:datetimestamp>24/09/2018 14:00:00</lle:datetimestamp>
+    </lle:tweet>
+  </lle:Event>
+
+  <lle:Event>
+    <lle:eventid>ID8</lle:eventid>
+    <lle:tweet>
+      <lle:text>This is some status update in my day</lle:text>
+      <lle:location>
+        <lle:lat>-31.939095</lle:lat>
+        <lle:long>115.815174</lle:long>
+      </lle:location>
+      <lle:datetimestamp>24/09/2018 14:00:00</lle:datetimestamp>
+    </lle:tweet>
+  </lle:Event>
+
+  <lle:Event>
+    <lle:eventid>ID9</lle:eventid>
+    <lle:tweet>
+      <lle:text>This is some status update in my day</lle:text>
+      <lle:location>
+        <lle:lat>-31.936193</lle:lat>
+        <lle:long>115.765411</lle:long>
+      </lle:location>
+      <lle:datetimestamp>24/09/2018 14:00:00</lle:datetimestamp>
+    </lle:tweet>
+  </lle:Event>
+
+  <lle:Event>
+    <lle:eventid>ID10</lle:eventid>
+    <lle:tweet>
+      <lle:text>This is some status update in my day</lle:text>
+      <lle:location>
+        <lle:lat>-31.985632</lle:lat>
+        <lle:long>115.812981</lle:long>
+      </lle:location>
+      <lle:datetimestamp>24/09/2018 14:00:00</lle:datetimestamp>
+    </lle:tweet>
+  </lle:Event>
+
+  <lle:Event>
+    <lle:eventid>ID11</lle:eventid>
+    <lle:tweet>
+      <lle:text>This is some status update in my day</lle:text>
+      <lle:location>
+        <lle:lat>-31.978626</lle:lat>
+        <lle:long>115.884793</lle:long>
+      </lle:location>
+      <lle:datetimestamp>24/09/2018 14:00:00</lle:datetimestamp>
+    </lle:tweet>
+  </lle:Event>
+
+  <lle:Event>
+    <lle:eventid>ID12</lle:eventid>
+    <lle:tweet>
+      <lle:text>This is some status update in my day</lle:text>
+      <lle:location>
+        <lle:lat>-31.992866</lle:lat>
+        <lle:long> 115.858932</lle:long>
+      </lle:location>
+      <lle:datetimestamp>24/09/2018 14:00:00</lle:datetimestamp>
+    </lle:tweet>
+  </lle:Event>
+
+  <lle:Event>
+    <lle:eventid>ID13</lle:eventid>
+    <lle:tweet>
+      <lle:text>This is some status update in my day</lle:text>
+      <lle:location>
+        <lle:lat>-31.973124</lle:lat>
+        <lle:long>115.854226</lle:long>
+      </lle:location>
+      <lle:datetimestamp>24/09/2018 14:00:00</lle:datetimestamp>
+    </lle:tweet>
+  </lle:Event>
+  
+  <lle:Event>
+    <lle:eventid>ID14</lle:eventid>
+    <lle:tweet>
+    <lle:text>This is some status update in my day</lle:text>
+      <lle:location>
+          <lle:lat>-32.006438 </lle:lat>
+          <lle:long>115.843702</lle:long>
+      </lle:location>
+    <lle:datetimestamp>24/09/2018 14:00:00</lle:datetimestamp>
+    </lle:tweet>
+</lle:Event>
+
+  <lle:Event>
+    <lle:eventid>ID15</lle:eventid>
+    <lle:tweet>
+      <lle:text>This is some status update in my day</lle:text>
+      <lle:location>
+        <lle:lat>-31.960029</lle:lat>
+        <lle:long>115.896849</lle:long>
+      </lle:location>
+      <lle:datetimestamp>24/09/2018 14:00:00</lle:datetimestamp>
+    </lle:tweet>
+  </lle:Event>
+
+  <lle:Event>
+    <lle:eventid>ID16</lle:eventid>
+    <lle:tweet>
+      <lle:text>This is some status update in my day</lle:text>
+      <lle:location>
+        <lle:lat>-31.990753</lle:lat>
+        <lle:long> 115.898223</lle:long>
+      </lle:location>
+      <lle:datetimestamp>24/09/2018 14:00:00</lle:datetimestamp>
+    </lle:tweet>
+  </lle:Event>
+
+  <lle:Event>
+    <lle:eventid>ID17</lle:eventid>
+    <lle:tweet>
+      <lle:text>This is some status update in my day</lle:text>
+      <lle:location>
+        <lle:lat>-31.932460</lle:lat>
+        <lle:long>115.893034</lle:long>
+      </lle:location>
+      <lle:datetimestamp>24/09/2018 14:00:00</lle:datetimestamp>
+    </lle:tweet>
+  </lle:Event>
+
+  <lle:Event>
+    <lle:eventid>ID18</lle:eventid>
+    <lle:tweet>
+      <lle:text>This is some status update in my day</lle:text>
+      <lle:location>
+        <lle:lat>-32.002442</lle:lat>
+        <lle:long>115.767897</lle:long>
+      </lle:location>
+      <lle:datetimestamp>24/09/2018 14:00:00</lle:datetimestamp>
+    </lle:tweet>
+  </lle:Event>
+  
+  <lle:Event>
+    <lle:eventid>ID19</lle:eventid>
+    <lle:tweet>
+      <lle:text>This is some status update in my day</lle:text>
+      <lle:location>
+        <lle:lat>-30.002442</lle:lat>
+        <lle:long>115.867897</lle:long>
+      </lle:location>
+      <lle:datetimestamp>24/09/2018 14:00:00</lle:datetimestamp>
+    </lle:tweet>
+    </lle:Event>
+  
+   <lle:Event>
+    <lle:eventid>ID20</lle:eventid>
+    <lle:tweet>
+      <lle:text>This is some status update in my day</lle:text>
+      <lle:location>
+        <lle:lat>-31.002442</lle:lat>
+        <lle:long>115.967897</lle:long>
+      </lle:location>
+      <lle:datetimestamp>24/09/2018 14:00:00</lle:datetimestamp>
+    </lle:tweet>
+    </lle:Event>
+  
+    
+<!--
+  <lle:Event>
+    <lle:eventid>ID19</lle:eventid>
+    <lle:tracklog>
+      <lle:filepath>/Data/Tracklog1.gpx</lle:filepath>
+      <lle:data>
+        .....
+      </lle:data>
+      <lle:start-time>
+        <lle:datetimestamp>datetimestamp</lle:datetimestamp>
+      </lle:start-time>
+      <lle:end-time>
+        <lle:datetimestamp>datetimestamp</lle:datetimestamp>
+      </lle:end-time>
+    </lle:tracklog>
+  </lle:Event>
+
+  <lle:Event>
+    <lle:eventid>ID20</lle:eventid>
+    <lle:tracklog>
+      <lle:filepath>/Data/Tracklog2.gpx</lle:filepath>
+      <lle:data>
+        .....
+      </lle:data>
+      <lle:start-time>
+        <lle:datetimestamp>datetimestamp</lle:datetimestamp>
+      </lle:start-time>
+      <lle:end-time>
+        <lle:datetimestamp>datetimestamp</lle:datetimestamp>
+      </lle:end-time>
+    </lle:tracklog>
+  </lle:Event> -->
+  
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
